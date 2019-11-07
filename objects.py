@@ -8,6 +8,4 @@ class Animal:
 
 
 animal_1 = Animal()  # creating the instance
-animal_1.speak() # no need to pass self. python does it on its own under the hood
-
-
+animal_1.speak()  # no need to pass self. python does it on its own under the hood
