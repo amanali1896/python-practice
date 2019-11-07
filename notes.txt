@@ -1,0 +1,17 @@
+    The Python Interpreter is a command line environment to write and execute Python code.
+
+    Python supports arithmetic with operators for addition (+), division (/), and more.
+
+    Values in Python have types. For example: integers, strings, and booleans.
+
+    Variables allow you to point to values with a variable name.
+
+    Functions in python are mechanism to re-execute lines of code encapsulated within the function body. Functions return output values, usually based on one or more inputs. They also have side effects - portions of the function (like prints) that don't affect the return value.
+
+    Comparison operators allow you to control the execution of your code by comparing two values and returning a boolean result. For example, to check if two values are equal, use: ==. Or to check if a value is greater than or equal to, use: >=.
+
+    The main loops in Python are while and for. The while loop executes until the condition of the loop is false. The for loop executes by stepping through a sequence.
+
+    Python has built-in data structures like lists, sets, and dictionaries that allow you to create collections of other Python values.
+
+    Classes allow you to define object templates for your own custom objects and data structures in Python. Instances of the class are objects that have their own custom data based on the object template.
